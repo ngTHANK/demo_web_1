@@ -1,0 +1,27 @@
+h1 {
+    font-size: 100px;
+    color: blue;
+    background-color: aqua;
+}
+
+h2 {
+    font-size: 50px;
+    color: blueviolet;
+}
+
+p {
+    font-style: italic;
+    font-weight: 200;
+    color: cyan;
+    background-color: darkslategrey;
+}
+
+a {
+    font: optional;
+    font-size: 25px;
+}
+
+script {
+    font: optional;
+    font-size: 25px;
+}
